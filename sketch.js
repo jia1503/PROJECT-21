@@ -1,4 +1,4 @@
-ar bullet1,wall1;
+var bullet1,wall1;
 var speed1, weight1,thickness1;
 
 function setup(){
